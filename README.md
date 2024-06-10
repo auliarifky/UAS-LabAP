@@ -3,4 +3,4 @@
 
 ![Screenshot 2024-06-10 135446](https://github.com/auliarifky/UAS-LabAP/assets/167726130/6a7316d7-20cf-4ebd-94a1-61d2cf0f185f)
 
-[Link Video Penjelasan Program](https://drive.google.com/file/d/1jmOh22etFli13A4CjXCbe4CxdN1KVmOR/view?usp=drive_link)
+[Link Video Penjelasan Program](https://drive.google.com/drive/folders/1aZHDtwNwP1NW5YMLU4_YIqhRDEnT6L-P?hl=id)

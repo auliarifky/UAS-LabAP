@@ -1,4 +1,8 @@
 
+Anggota Kelompok : Andini Anatasia (231401002)
+                 : MHD. Aulia Rifky (231401005)
+                 : Siti Nur Salsabila (231401035)
+
 [Output jika fungsi bernilai true]
 ![Screenshot 2024-06-10 131446](https://github.com/auliarifky/UAS-LabAP/assets/167726130/1df41d97-26f4-45a4-9922-70229964d978)
 
